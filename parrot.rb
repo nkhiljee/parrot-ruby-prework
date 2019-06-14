@@ -4,5 +4,4 @@ def parrot(word="Squawk!")
   puts "#{word}"
   return word
   word
-  binding.pry
 end
